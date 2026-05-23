@@ -27,6 +27,24 @@ The workflow focused heavily on:
 - visual continuity
 - iterative creative direction
 
+##Here are the preview images of the developed game
+
+### Spring
+
+![Spring Scene](assets/preview/spring.png)
+
+### Summer
+
+![Summer Scene](assets/preview/summer.png)
+
+### Autumn
+
+![Autumn Scene](assets/preview/autumn.png)
+
+### Winter
+
+![Winter Scene](assets/preview/winter.png)
+
 ## Tech Stack
 
 - Python
@@ -52,3 +70,5 @@ To run the project just use the following steps:
 
 pip install pygame
 python main.py
+
+Or you can download the executable file uploaded.
