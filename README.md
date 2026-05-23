@@ -1,4 +1,4 @@
-# mom-through-seasons-using-ai-prompt-engineering
+# Mom-through-seasons-using-ai-prompt-engineering
 AI-assisted cinematic software experience.
 
 A visual journey through Spring, Summer, Autumn, and Winter —
@@ -14,6 +14,25 @@ Each season represents a different emotional phase of a mother-daughter relation
 - Summer → growth
 - Autumn → emotional distance
 - Winter → reconciliation and gratitude
+
+## Here are the preview images of the developed game
+
+### Spring
+
+![Spring Scene](assets/preview/spring.png)
+
+### Summer
+
+![Summer Scene](assets/preview/summer.png)
+
+### Autumn
+
+![Autumn Scene](assets/preview/autumn.png)
+
+### Winter
+
+![Winter Scene](assets/preview/winter.png)
+
 
 ## AI-Assisted Development
 The project was developed through iterative prompt engineering and modular AI collaboration.
@@ -52,3 +71,5 @@ To run the project just use the following steps:
 
 pip install pygame
 python main.py
+
+Or you can download the executable file uploaded.
